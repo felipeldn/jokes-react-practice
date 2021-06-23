@@ -30,8 +30,7 @@ function App() {
 
         <Joke
           joke={{
-            question: "Did you hear about the claustrophobic astronaut?",
-            punchline: "He just wanted a little space"
+            punchline: "Its hard to explain puns to kleptomaniacs because they always take things literally."
           }}/>
     </div>
   );
